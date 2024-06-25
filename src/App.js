@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import "./App.css";
 import Footer from "./Components/Footer";
 
@@ -13,6 +13,14 @@ function App() {
   const handleDecrement = () => {
     changeCounter(counter - 1);
   };
+
+  useEffect(() => {
+    document.title = "Counter App";
+
+    return () => {
+      document.title= "Counter App"
+    }
+  }, [])
 
   return (
     <div className="App">
