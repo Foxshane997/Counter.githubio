@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Foxshane997/Counter.githubio/static/css/main.a0fd1836.css",
+    "main.js": "/Foxshane997/Counter.githubio/static/js/main.fefcd719.js",
+    "static/js/453.f856a8ff.chunk.js": "/Foxshane997/Counter.githubio/static/js/453.f856a8ff.chunk.js",
+    "index.html": "/Foxshane997/Counter.githubio/index.html",
+    "main.a0fd1836.css.map": "/Foxshane997/Counter.githubio/static/css/main.a0fd1836.css.map",
+    "main.fefcd719.js.map": "/Foxshane997/Counter.githubio/static/js/main.fefcd719.js.map",
+    "453.f856a8ff.chunk.js.map": "/Foxshane997/Counter.githubio/static/js/453.f856a8ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0fd1836.css",
+    "static/js/main.fefcd719.js"
+  ]
+}
